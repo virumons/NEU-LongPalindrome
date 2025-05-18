@@ -52,7 +52,7 @@ src/
 
 ```bash
 # Step 1: Go to project directory
-cd PalindromeFinderProject
+cd src Folder
 
 # Step 2: Compile the Java file
 javac Main.java
